@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "test_web_server.py",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest test_web_server.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 100
+    }
+  ]
+}
